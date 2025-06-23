@@ -1,0 +1,2 @@
+# Simple-pygame
+pygame-clicker
